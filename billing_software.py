@@ -221,7 +221,7 @@ def main():
             search_transactions()
 
         elif choice == "3":
-            print("\nThank you for using Futuristic Billing System. Goodbye!")
+            print("\nThank you for using IRON LEGION Billing System. Goodbye!")
             break
 
         else:
